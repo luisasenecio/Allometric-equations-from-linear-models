@@ -220,3 +220,5 @@ And this gives us 0.00194, which means that when predicting total live biomass w
 This is not very helpful, but wen can back-transform the error as well to be able to indicate RMSE in the original units. This gives 5.71\*10^-7^ kg which is indeed a very small error and makes predictions from our allometric equation very accurate.
 
 **Careful!** This equation and its associated RMSE is only accurate for the range of observed values it was created from. But because our DBH measurements ranged from 0.3 to 56 cm and total live biomass ranged from 0.005 to 1'420.5 kg, a lot of different tree sizes are covered by it.
+
+**_Congratulations!_** I hope you've enjoyed this tutorial and that it will help you with your future endeavours! Go relax now and look at some nice trees, that always helps!
