@@ -1,12 +1,5 @@
----
-title: "**Introduction to producing allometric equations from linear models**"
-subtitle: "Featuring light data wrangling, log-transformations, and error quantifications"
-author: "Luisa-Marie Dickenmann"
-date: "November 2022"
-output: 
-  html_document:
-    css: "style.css"
----
+# Introduction to producing allometric equations from linear models
+## Featuring light data wrangling, log-transformations, and error quantifications
 
 # Tutorial aims
 
