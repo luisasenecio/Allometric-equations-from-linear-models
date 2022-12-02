@@ -27,7 +27,7 @@ This tutorial works with a large data set on destructively sampled biomass struc
 
 If you'd like to familiarise yourself with R Studio or linear models first, I highly recommend the Coding Club's tutorials: [Getting Started with R and RStudio](https://ourcodingclub.github.io/tutorials/intro-to-r/) and [Intro to Model Design](https://ourcodingclub.github.io/tutorials/model-design/)
 
-All the materials you need, including the data set, a full example script and the figures we will produce can be found in [this repository](https://luisasenecio.github.io/Allometric-equations-from-linear-models/). Simply click on the [green]{.green} '\<\> Code' button, then on 'Download ZIP' and finally unzip the downloaded folder.
+All the materials you need, including the data set, a full example script and the figures we will produce can be found in [this repository](https://github.com/luisasenecio/Allometric-equations-from-linear-models.git). Simply click on the [green]{.green} '\<\> Code' button, then on 'Download ZIP' and finally unzip the downloaded folder.
 
 **Let's get started then!**
 
